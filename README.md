@@ -12,4 +12,4 @@ Download and locate the file in same directory as your visio file and then run p
 - press enter and follow program steps
 
 Sample:
-![url=https://www.imageupload.net/image/sxuxq](https://img.imageupload.net/2020/09/12/thumbnail.jpg)
+![url=https://www.imageupload.net/image/s36Z1](https://img.imageupload.net/2020/09/12/thumbnail10f04dc45baaf4bc.jpg)
