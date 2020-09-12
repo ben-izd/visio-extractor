@@ -10,3 +10,6 @@ Download and locate the file in same directory as your visio file and then run p
 - choose "Open Powershell ..."
 - type "python ./"
 - press enter and follow program steps
+
+Sample:
+![url=https://www.imageupload.net/image/sxuxq](https://img.imageupload.net/2020/09/12/thumbnail.jpg)
