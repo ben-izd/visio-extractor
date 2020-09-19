@@ -3,6 +3,8 @@ A command line application help you to export topics and relations text from vis
 This program can help you to extract your story that has been planned in visio to simple text file that you can use in your program.
 You can plan Stories that user choose a scenario or question & answer or ...
 
+You can download mindmanager version from [this repository](https://github.com/beny74483/mindmanager-extractor-python).
+
 To run this file you need to install python on your computer. You can download it from <a href="https://www.python.org/downloads/">here</a>.
 
 Also you need to install two library "bs4" and "lxml" after python installation:
